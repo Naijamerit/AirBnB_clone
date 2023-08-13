@@ -1,4 +1,4 @@
-![AirBnB](assets/hbnblogo.png)
+![AirBnB](assets/hbnb_logo.png)
 
 ## DESCRIPTION
 
@@ -8,7 +8,7 @@ This is part 1 of our AirBnb Clone project. The purpose of this project is to ma
 
 #### Data Diagram
 
-![data_diagram](assets/datadiagram.jpg)
+![data_diagram](assets/data_diagram.jpg)
 
 ## CONCEPTS LEARNT
 
