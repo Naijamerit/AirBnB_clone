@@ -21,4 +21,3 @@ class TestState(unittest.TestCase):
     def test_class_attrs(self):
         self.assertIs(type(self.state.name), str)
         self.assertFalse(bool(self.state.name))
-
